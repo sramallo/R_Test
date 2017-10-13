@@ -1,3 +1,4 @@
+# R related files that don't need version control
 .Rproj.user
 .Rhistory
 .RData
